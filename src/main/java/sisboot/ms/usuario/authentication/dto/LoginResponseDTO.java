@@ -13,4 +13,5 @@ public class LoginResponseDTO {
     private Long idPaciente; // Opcional según el tipo
     private Long idEspecialista; // Opcional según el tipo
     private Long idAdministrador; // Opcional según el tipo
+    private Object perfil;
 }
